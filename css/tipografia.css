@@ -1,0 +1,18 @@
+body{
+  font-family:"Times New Roman",Arial,sans-serif,Helvetica;
+}
+p{
+  letter-spacing: 3px;
+  text-align: justify;
+  line-height: 30px;
+}
+h1{
+  font-family: "Times New Roman",Arial;
+  font-size: 20px;
+  font-style:oblique;
+  font-weight: normal;
+  color:#4281ed;
+  text-align:left;
+  text-decoration: underline;
+  text-transform:capitalize;
+}
